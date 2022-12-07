@@ -1,2 +1,2 @@
 # zen-garden
-plying with zen!!
+playing with zen!!
